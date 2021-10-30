@@ -1,11 +1,9 @@
 ### Hello there 👋
 
-I'm Hamad Binqali, I'm 18 years old, Full JavaScript Developer.
-
-love coding 💖, and I coding alomst evenyday 🧑🏽‍💻,
-I can make Modern Website from FrontEnd to BackEnd and dealing with Databases, API, Command Line & Shell Scripting, and so on...
-
-currently I studying Engineering at UQU 📃✏️.
+I'm Hamad Binqali, I'm 18 years old, 
+Full JavaScript Developer. 
+love coding 💖, and I'm coding almost everyday 🧑🏽‍💻,
+I can make Modern Website, From FrontEnd to BackEnd and dealing with Databases, API, Command Line & Shell Scripting, and so on... currently I studying Engineering at UQU 📃✏️.
 
 ## Stuff I familiar with:
 
