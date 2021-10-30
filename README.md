@@ -5,7 +5,7 @@ Full JavaScript Developer.
 love coding 💖, and I'm coding almost everyday 🧑🏽‍💻,
 I can make Modern Website, From FrontEnd to BackEnd and dealing with Databases, API, Command Line & Shell Scripting, and so on... currently I studying Engineering at UQU 📃✏️.
 
-## Stuff I familiar with:
+## Stuff I'm familiar with:
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
