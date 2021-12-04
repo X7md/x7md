@@ -1,9 +1,13 @@
-### Hello there 👋
+### Halla 👋
 
-I'm Hamad Binqali 18 years old, Saudi guy live in Makkah - Saudi Arabia,
-I'm a Full JavaScript Developer. 
-love coding 💖, and I'm coding almost everyday 🧑🏽‍💻,
-I can make Modern Website, From FrontEnd to BackEnd and dealing with Databases, API, Command Line & Shell Scripting, and so on... currently I studying Engineering at UQU 📃✏️.
+- 👨🏽‍💻 Name is Hamad, and I have 18 years ago.
+
+- I'm form Makkah 🕋 Saudi Arabia 🇸🇦.
+
+- Full Stack JavaScript Developer 💻🌐.
+
+- Currently I study Engineering at UQU 🗒️✏️.
+
 
 ## Stuff I'm familiar with:
 
