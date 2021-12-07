@@ -8,6 +8,8 @@
 
 - Currently I study Engineering at UQU 🗒️✏️.
 
+- Member in GDSC UQU 🗣️🎤.
+
 
 ## Stuff I'm familiar with:
 
