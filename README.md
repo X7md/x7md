@@ -8,7 +8,7 @@
 
 - Currently I study Engineering at UQU 🗒️✏️.
 
-- Member in GDSC UQU 🗣️🎤.
+- Member in [GDSC UQU](https://gdsc.community.dev/umm-al-qura-university-m/) 🗣️🎤.
 
 
 ## Stuff I'm familiar with:
