@@ -1,14 +1,14 @@
 ### Halla 👋
 
-- 👨🏽‍💻 Name is Hamad, and I was born 18 years ago.
+- 👨🏽‍💻 Name is Hamad, and I am 18 years old.
 
-- I'm form Makkah 🕋 Saudi Arabia 🇸🇦.
+- I'm from Makkah 🕋 Saudi Arabia 🇸🇦.
 
 - Full Stack JavaScript Developer 💻🌐.
 
-- Currently I study Engineering at UQU 🗒️✏️.
+- Currently I studying Engineering at UQU 🗒️✏️.
 
-- Member in [GDSC UQU](https://gdsc.community.dev/umm-al-qura-university-m/) 🗣️🎤.
+- Member of [GDSC UQU](https://gdsc.community.dev/umm-al-qura-university-m/) 🗣️🎤.
 
 
 ## Stuff I'm familiar with:
