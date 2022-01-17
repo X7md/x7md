@@ -1,6 +1,6 @@
 ### Halla 👋
 
-- 👨🏽‍💻 Name is Hamad, and I have 18 years ago.
+- 👨🏽‍💻 Name is Hamad, and I was born 18 years ago.
 
 - I'm form Makkah 🕋 Saudi Arabia 🇸🇦.
 
