@@ -6,7 +6,7 @@
 
 - Full Stack JavaScript Developer 💻🌐.
 
-- Currently I studying Engineering at UQU 🗒️✏️.
+- Currently I'm studying Engineering at UQU 🗒️✏️.
 
 - Member of [GDSC UQU](https://gdsc.community.dev/umm-al-qura-university-m/) 🗣️🎤.
 
